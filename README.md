@@ -1,4 +1,4 @@
-# AmbassadorProgram
+# Ambassador Program
 
 Add this code to Extensions > App Scripts > macros.gs
 
